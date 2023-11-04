@@ -1,6 +1,6 @@
 FROM alpine:3.18
 LABEL Maintainer="Darius Mihai" \
-      Description="Lightweight container with Nginx 1.22 & PHP-FPM 8 based on Alpine Linux."
+      Description="Lightweight container with Nginx 1.24 & PHP-FPM 8 based on Alpine Linux 3.18."
 
 ARG PHP_VERSION="8.2.10"
 
