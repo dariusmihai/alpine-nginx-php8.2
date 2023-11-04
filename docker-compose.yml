@@ -1,8 +1,8 @@
-version: "3.3"
+version: "1.0"
 
 services:
   web:
-    container_name: khromov_php8
+    container_name: dariusmihai_php82
     depends_on:
       - db
     volumes:
