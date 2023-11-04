@@ -2,6 +2,8 @@
 
 Forked from https://github.com/khromov/alpine-nginx-php8
 
+WORK IN PROGRESS. USAGE WILL BE ADDED ONCE EVERYTHING IS SET UP
+
 * Built on the lightweight and secure Alpine Linux distribution
 * Very small Docker image size (+/-35MB)
 * Uses PHP 8 for better performance, lower CPU usage & memory footprint
@@ -25,26 +27,7 @@ Forked from https://github.com/khromov/alpine-nginx-php8
 
 This image is built on GitHub actions and hosted on the GitHub Docker images repo. It is also available under `khromov/alpine-nginx-php8` on [Docker Hub](https://hub.docker.com/r/khromov/alpine-nginx-php8).
 
-### Usage
-
-Fetch the prebuilt image in your custom images:
-
-GitHub (preferred):
-
-```
-docker pull ghcr.io/khromov/alpine-nginx-php8/alpine-nginx-php8:latest
-```
-
-If you get "no basic auth credentials", see [this page](https://docs.github.com/en/free-pro-team@latest/packages/using-github-packages-with-your-projects-ecosystem/configuring-docker-for-use-with-github-packages).
-
-
-Docker Hub:
-
-```
-docker pull khromov/alpine-nginx-php8
-```
-
-#### Start Nginx, PHP and MySQL via docker-compose
+WORK IN PROGRESS. USAGE WILL BE ADDED ONCE EVERYTHING IS SET UP
 
 This is convenient for developing Laravel, WordPress or Drupal sites. It includes MySQL and phpMyAdmin
 
