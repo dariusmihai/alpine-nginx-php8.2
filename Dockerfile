@@ -1,4 +1,4 @@
-FROM alpine:3.16
+FROM alpine:3.18
 LABEL Maintainer="Darius Mihai" \
       Description="Lightweight container with Nginx 1.22 & PHP-FPM 8 based on Alpine Linux."
 
