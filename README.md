@@ -1,4 +1,6 @@
-# Docker PHP-FPM 8.0 & Nginx 1.22 on Alpine Linux
+# Docker PHP-FPM 8.2 & Nginx 1.24 on Alpine Linux 3.18
+
+Forked from https://github.com/khromov/alpine-nginx-php8
 
 * Built on the lightweight and secure Alpine Linux distribution
 * Very small Docker image size (+/-35MB)
