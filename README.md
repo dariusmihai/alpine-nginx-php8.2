@@ -1,7 +1,5 @@
 # Docker PHP-FPM 8.2 & Nginx 1.24 on Alpine Linux 3.18
 
-Forked from https://github.com/khromov/alpine-nginx-php8
-
 WORK IN PROGRESS. USAGE WILL BE ADDED ONCE EVERYTHING IS SET UP
 
 * Built on the lightweight and secure Alpine Linux distribution
@@ -70,4 +68,5 @@ If you want to extend or customize that you can do so by mounting a configuratio
 
 ## Acknowledgements
 
-This image was inspired by [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) and [this subsequent fork](https://github.com/khromov/docker-php-nginx).
+Forked from [khromov/alpine-nginx-php8](https://github.com/khromov/alpine-nginx-php8)
+Inspired by [TrafeX/docker-php-nginx](https://github.com/TrafeX/docker-php-nginx) and [this subsequent fork](https://github.com/khromov/docker-php-nginx).
