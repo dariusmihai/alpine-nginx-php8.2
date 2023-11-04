@@ -1,2 +1,2 @@
 #!/bin/bash
-docker exec -it khromov_php8 sh
+docker exec -it dariusmihai_php82 sh
